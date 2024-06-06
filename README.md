@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaytonSteinocher
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... at CodeBoxx
+- 👀 I’m interested in Python and SQL
+- 📅 I’m currently analyzing data at ICC-IMS
 
 <!---
 ClaytonSteinocher/ClaytonSteinocher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
